@@ -1,3 +1,6 @@
+DESCRIPTION DU FONCTIONNEMENT
+
+
 /**
  * La méthode main est le point d'entrée de l'application.
  * Elle se charge de se connecter à la base de données, de récupérer les noms des apprenants,
